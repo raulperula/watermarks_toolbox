@@ -7,7 +7,7 @@ Texto y código fuente en Español.
 
 ---
 
-Study and implementation of the more significative techniques for watermarking throw a comparative of robustness and vulnerability, analyzing the advantages and inconvenients for each algorithm.
+Study and implementation of the most significant techniques for watermarking throw a comparative of robustness and vulnerability, analyzing the advantages and inconvenients for each algorithm.
 
 Text and source code in Spanish.
 
