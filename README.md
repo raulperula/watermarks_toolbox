@@ -17,5 +17,4 @@ Text and source code in Spanish.
 
 Raúl Pérula-Martínez<br>
 Computer Systems Engineering Technician<br>
-University of Cordoba (Spain)<br>
-More information: http://educatech.sytes.net/raul/doku.php?id=watermarks
+University of Cordoba (Spain)
